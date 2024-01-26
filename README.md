@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skunwar9
 - 👀 I’m interested in C
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, JavaScript, sql.
 - 📫 How to reach me- Instagram: @aarju_xx
 - 😄 Pronouns: she/her
   
